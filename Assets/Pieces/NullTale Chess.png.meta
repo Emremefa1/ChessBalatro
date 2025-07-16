@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 55c4b2185ce5e6945bcdafdd2e76f534
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 127304293889528117
+    second: NullTale Chess_0
+  - first:
+      213: 504141261066991387
+    second: NullTale Chess_1
+  - first:
+      213: -6067835172475542730
+    second: NullTale Chess_2
+  - first:
+      213: 298796895567817454
+    second: NullTale Chess_3
+  - first:
+      213: 3658781038744185713
+    second: NullTale Chess_4
+  - first:
+      213: 1572921930605564628
+    second: NullTale Chess_5
+  - first:
+      213: -2176627837872511297
+    second: NullTale Chess_6
+  - first:
+      213: -7899272432817994016
+    second: NullTale Chess_7
+  - first:
+      213: -6942257084512805226
+    second: NullTale Chess_8
+  - first:
+      213: 7274893595939781428
+    second: NullTale Chess_9
+  - first:
+      213: -2704809901373211203
+    second: NullTale Chess_10
+  - first:
+      213: -786745706748090578
+    second: NullTale Chess_11
+  - first:
+      213: -2646264499767791716
+    second: NullTale Chess_12
+  - first:
+      213: -4629574117238264141
+    second: NullTale Chess_13
+  - first:
+      213: -618710257859464388
+    second: NullTale Chess_14
+  - first:
+      213: -5997326332542848031
+    second: NullTale Chess_15
+  - first:
+      213: -4923215078973279261
+    second: NullTale Chess_16
+  - first:
+      213: 3031582025646721165
+    second: NullTale Chess_17
+  - first:
+      213: -592725268032611778
+    second: NullTale Chess_18
+  - first:
+      213: -4397481229647154093
+    second: NullTale Chess_19
+  - first:
+      213: 3611950947933686187
+    second: NullTale Chess_20
+  - first:
+      213: 4616572573462712622
+    second: NullTale Chess_21
+  - first:
+      213: -3380359721059278388
+    second: NullTale Chess_22
+  - first:
+      213: 7374216307555019365
+    second: NullTale Chess_23
+  - first:
+      213: -6287474137337204142
+    second: NullTale Chess_24
+  - first:
+      213: -3003886175540414832
+    second: NullTale Chess_25
+  - first:
+      213: 5774106618971827543
+    second: NullTale Chess_26
+  - first:
+      213: 4136004946595739452
+    second: NullTale Chess_27
+  - first:
+      213: -7617348810782560758
+    second: NullTale Chess_28
+  - first:
+      213: -2276295680507049082
+    second: NullTale Chess_29
+  - first:
+      213: 5671841195279941861
+    second: NullTale Chess_30
+  - first:
+      213: 5722613360760646495
+    second: NullTale Chess_31
+  - first:
+      213: 4260815250591275939
+    second: NullTale Chess_32
+  - first:
+      213: 2919469409773043548
+    second: NullTale Chess_33
+  - first:
+      213: -847041881260009298
+    second: NullTale Chess_34
+  - first:
+      213: 3522507953433247274
+    second: NullTale Chess_35
+  - first:
+      213: 889252309658378937
+    second: NullTale Chess_36
+  - first:
+      213: 7336724847678777249
+    second: NullTale Chess_37
+  - first:
+      213: 3080717033166007160
+    second: NullTale Chess_38
+  - first:
+      213: -3437280995869610344
+    second: NullTale Chess_39
+  - first:
+      213: -1453378057705932435
+    second: NullTale Chess_40
+  - first:
+      213: -8900938106047629569
+    second: NullTale Chess_41
+  - first:
+      213: 7460205995542188691
+    second: NullTale Chess_42
+  - first:
+      213: -1832392296724676684
+    second: NullTale Chess_43
+  - first:
+      213: 208531809313729346
+    second: NullTale Chess_44
+  - first:
+      213: 7230244154948853473
+    second: NullTale Chess_45
+  - first:
+      213: 2406519664615525970
+    second: NullTale Chess_46
+  - first:
+      213: -9187690383574990182
+    second: NullTale Chess_47
+  - first:
+      213: 2852777610771036099
+    second: NullTale Chess_48
+  - first:
+      213: 7685252047065229896
+    second: NullTale Chess_49
+  - first:
+      213: -9131493262147997507
+    second: NullTale Chess_50
+  - first:
+      213: 8112212850258566631
+    second: NullTale Chess_51
+  - first:
+      213: 1296635945875513865
+    second: NullTale Chess_52
+  - first:
+      213: 7121898670138318748
+    second: NullTale Chess_53
+  - first:
+      213: -9193328568578479097
+    second: NullTale Chess_54
+  - first:
+      213: -2922889338763440934
+    second: NullTale Chess_55
+  - first:
+      213: -8773829022920160605
+    second: NullTale Chess_56
+  - first:
+      213: -3789918160727896148
+    second: NullTale Chess_57
+  - first:
+      213: -3504875167321505996
+    second: NullTale Chess_58
+  - first:
+      213: -6874499717962466058
+    second: NullTale Chess_59
+  - first:
+      213: -56300399409492325
+    second: NullTale Chess_60
+  - first:
+      213: 2928081224932235924
+    second: NullTale Chess_61
+  - first:
+      213: 6204643001876924129
+    second: NullTale Chess_62
+  - first:
+      213: 4721599530557906880
+    second: NullTale Chess_63
+  - first:
+      213: 6802347283526126153
+    second: NullTale Chess_64
+  - first:
+      213: -8418524078262511706
+    second: NullTale Chess_65
+  - first:
+      213: 6213466837644034858
+    second: NullTale Chess_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NullTale Chess_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 223
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531daafa49644c100800000000000000
+      internalID: 127304293889528117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 225
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17f38e4ec11ff600800000000000000
+      internalID: 504141261066991387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 226
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63369f43f08bacba0800000000000000
+      internalID: -6067835172475542730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 226
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea2f44813a852400800000000000000
+      internalID: 298796895567817454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 226
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b284d38f996c230800000000000000
+      internalID: 3658781038744185713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 226
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d29a25892424d510800000000000000
+      internalID: 1572921930605564628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 226
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6e16383801bc1e0800000000000000
+      internalID: -2176627837872511297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 226
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e609d11395206290800000000000000
+      internalID: -7899272432817994016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_8
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 226
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69edc2a96f528af90800000000000000
+      internalID: -6942257084512805226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 215
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b31c47e2d95f460800000000000000
+      internalID: 7274893595939781428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 199
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdb0b3b9b5967ad0800000000000000
+      internalID: -2704809901373211203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 215
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2767b4b2fae415f0800000000000000
+      internalID: -786745706748090578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f2d9d3574964bd0800000000000000
+      internalID: -2646264499767791716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 199
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3beaba07ed270cfb0800000000000000
+      internalID: -4629574117238264141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33756d6c46e967f0800000000000000
+      internalID: -618710257859464388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 192
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3ffaac97735cca0800000000000000
+      internalID: -5997326332542848031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e373f058f93dabb0800000000000000
+      internalID: -4923215078973279261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88c1225ac7521a20800000000000000
+      internalID: 3031582025646721165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a9485528736c7f0800000000000000
+      internalID: -592725268032611778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 162
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354fe68de1209f2c0800000000000000
+      internalID: -4397481229647154093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 162
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba909bd004a302230800000000000000
+      internalID: 3611950947933686187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 159
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e215e01cb4c511040800000000000000
+      internalID: 4616572573462712622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 159
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1293d5ebc8611d0800000000000000
+      internalID: -3380359721059278388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 181
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56aa5b459aa765660800000000000000
+      internalID: 7374216307555019365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 159
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2527f85a5976eb8a0800000000000000
+      internalID: -6287474137337204142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 159
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096f439407d0056d0800000000000000
+      internalID: -3003886175540414832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 159
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d2c0f906fb12050800000000000000
+      internalID: 5774106618971827543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_27
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 159
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37f81fd59a066930800000000000000
+      internalID: 4136004946595739452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 160
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eaf037d9db94690800000000000000
+      internalID: -7617348810782560758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 111
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b0f9f8329f860e0800000000000000
+      internalID: -2276295680507049082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e08613348d66be40800000000000000
+      internalID: 5671841195279941861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_31
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 127
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bea0b288eca6f40800000000000000
+      internalID: 5722613360760646495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 149
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab5f0945e4712b30800000000000000
+      internalID: 4260815250591275939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_33
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 127
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f342ec5f9048820800000000000000
+      internalID: 2919469409773043548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 144
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea85e9595e3be34f0800000000000000
+      internalID: -847041881260009298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 127
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e70e2125672e030800000000000000
+      internalID: 3522507953433247274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_36
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b222e0a342475c00800000000000000
+      internalID: 889252309658378937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 127
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7eca8906841d560800000000000000
+      internalID: 7336724847678777249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bea5fb1d7e0ca20800000000000000
+      internalID: 3080717033166007160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_39
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89eadff45235c40d0800000000000000
+      internalID: -3437280995869610344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 88
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69371a5b5094dbe0800000000000000
+      internalID: -1453378057705932435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 104
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6fa45a3f3897480800000000000000
+      internalID: -8900938106047629569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392188bb3d9f78760800000000000000
+      internalID: 7460205995542188691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_43
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 88
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf30902ae80296e0800000000000000
+      internalID: -1832392296724676684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_44
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ba382639ad4e200800000000000000
+      internalID: 208531809313729346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_45
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 81
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee121f50ccf65460800000000000000
+      internalID: 7230244154948853473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e866a72eca56120800000000000000
+      internalID: 2406519664615525970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a928dbc4644ce7080800000000000000
+      internalID: -9187690383574990182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7f1315f1a179720800000000000000
+      internalID: 2852777610771036099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 66
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aaaa2c40087aa60800000000000000
+      internalID: 7685252047065229896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_50
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 66
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0bbc0424b664180800000000000000
+      internalID: -9131493262147997507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_51
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed55026b9e549070800000000000000
+      internalID: 8112212850258566631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_52
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 47
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902a9ecd5839ef110800000000000000
+      internalID: 1296635945875513865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fdbe76b1116d260800000000000000
+      internalID: 7121898670138318748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 47
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ced6e006cba6080800000000000000
+      internalID: -9193328568578479097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 47
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc8a3de1afcf67d0800000000000000
+      internalID: -2922889338763440934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_56
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 47
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aac4d84df81d3680800000000000000
+      internalID: -8773829022920160605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf030e3381876bc0800000000000000
+      internalID: -3789918160727896148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_58
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 15
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fb6bdda9e2c5fc0800000000000000
+      internalID: -3504875167321505996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_59
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcf25eddeed890a0800000000000000
+      internalID: -6874499717962466058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e0c74c51bf73ff0800000000000000
+      internalID: -56300399409492325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 15
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a93954c52a2a820800000000000000
+      internalID: 2928081224932235924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_62
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 15
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6ccf4cfe15b1650800000000000000
+      internalID: 6204643001876924129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_63
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 15
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf1e86c1cd768140800000000000000
+      internalID: 4721599530557906880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a0b6160dac66e50800000000000000
+      internalID: 6802347283526126153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_65
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7171e34f46b2b80800000000000000
+      internalID: -8418524078262511706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NullTale Chess_66
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2341712b2baa3650800000000000000
+      internalID: 6213466837644034858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NullTale Chess_0: 127304293889528117
+      NullTale Chess_1: 504141261066991387
+      NullTale Chess_10: -2704809901373211203
+      NullTale Chess_11: -786745706748090578
+      NullTale Chess_12: -2646264499767791716
+      NullTale Chess_13: -4629574117238264141
+      NullTale Chess_14: -618710257859464388
+      NullTale Chess_15: -5997326332542848031
+      NullTale Chess_16: -4923215078973279261
+      NullTale Chess_17: 3031582025646721165
+      NullTale Chess_18: -592725268032611778
+      NullTale Chess_19: -4397481229647154093
+      NullTale Chess_2: -6067835172475542730
+      NullTale Chess_20: 3611950947933686187
+      NullTale Chess_21: 4616572573462712622
+      NullTale Chess_22: -3380359721059278388
+      NullTale Chess_23: 7374216307555019365
+      NullTale Chess_24: -6287474137337204142
+      NullTale Chess_25: -3003886175540414832
+      NullTale Chess_26: 5774106618971827543
+      NullTale Chess_27: 4136004946595739452
+      NullTale Chess_28: -7617348810782560758
+      NullTale Chess_29: -2276295680507049082
+      NullTale Chess_3: 298796895567817454
+      NullTale Chess_30: 5671841195279941861
+      NullTale Chess_31: 5722613360760646495
+      NullTale Chess_32: 4260815250591275939
+      NullTale Chess_33: 2919469409773043548
+      NullTale Chess_34: -847041881260009298
+      NullTale Chess_35: 3522507953433247274
+      NullTale Chess_36: 889252309658378937
+      NullTale Chess_37: 7336724847678777249
+      NullTale Chess_38: 3080717033166007160
+      NullTale Chess_39: -3437280995869610344
+      NullTale Chess_4: 3658781038744185713
+      NullTale Chess_40: -1453378057705932435
+      NullTale Chess_41: -8900938106047629569
+      NullTale Chess_42: 7460205995542188691
+      NullTale Chess_43: -1832392296724676684
+      NullTale Chess_44: 208531809313729346
+      NullTale Chess_45: 7230244154948853473
+      NullTale Chess_46: 2406519664615525970
+      NullTale Chess_47: -9187690383574990182
+      NullTale Chess_48: 2852777610771036099
+      NullTale Chess_49: 7685252047065229896
+      NullTale Chess_5: 1572921930605564628
+      NullTale Chess_50: -9131493262147997507
+      NullTale Chess_51: 8112212850258566631
+      NullTale Chess_52: 1296635945875513865
+      NullTale Chess_53: 7121898670138318748
+      NullTale Chess_54: -9193328568578479097
+      NullTale Chess_55: -2922889338763440934
+      NullTale Chess_56: -8773829022920160605
+      NullTale Chess_57: -3789918160727896148
+      NullTale Chess_58: -3504875167321505996
+      NullTale Chess_59: -6874499717962466058
+      NullTale Chess_6: -2176627837872511297
+      NullTale Chess_60: -56300399409492325
+      NullTale Chess_61: 2928081224932235924
+      NullTale Chess_62: 6204643001876924129
+      NullTale Chess_63: 4721599530557906880
+      NullTale Chess_64: 6802347283526126153
+      NullTale Chess_65: -8418524078262511706
+      NullTale Chess_66: 6213466837644034858
+      NullTale Chess_7: -7899272432817994016
+      NullTale Chess_8: -6942257084512805226
+      NullTale Chess_9: 7274893595939781428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
