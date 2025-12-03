@@ -203,93 +203,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &782505783
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 782505785}
-  - component: {fileID: 782505784}
-  m_Layer: 0
-  m_Name: NullTale Chess_0
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!212 &782505784
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 782505783}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 127304293889528117, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.18, y: 0.18}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &782505785
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 782505783}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0.6087609, y: -0, z: -0, w: 0.79335386}
-  m_LocalPosition: {x: 0, y: 0.39, z: 9.23}
-  m_LocalScale: {x: 59.027, y: 59.027, z: 59.027}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 75, y: 0, z: 0}
 --- !u!1 &1273251175
 GameObject:
   m_ObjectHideFlags: 0
@@ -306,7 +219,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1273251176
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -339,6 +252,79 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1688079725
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1688079727}
+  - component: {fileID: 1688079726}
+  - component: {fileID: 1688079728}
+  m_Layer: 0
+  m_Name: SimpleChessGame
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1688079726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1688079725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f95f377058d09dc4c8c88b03730bcb71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boardSize: 10
+  aiDifficulty: 3
+  squareSize: 1
+  playAsWhite: 1
+  whiteMaterial: {fileID: 2100000, guid: 734ae0572754fa8488a9ab5b497bb8eb, type: 2}
+  blackMaterial: {fileID: 2100000, guid: e93839ff152cb2847991767e6aacc707, type: 2}
+  highlightMaterial: {fileID: 2100000, guid: a5fc7b2bf4ff9194e8daa163936042bd, type: 2}
+  selectedMaterial: {fileID: 2100000, guid: 21d45bdc1aab5a24bb6421b05198dfa9, type: 2}
+--- !u!4 &1688079727
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1688079725}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1688079728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1688079725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65f1a6cd09047b54895bac13b52ecde9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  squareSize: 1
+  tileHeight: 0.15
+  heightOffset: 0.1
+  whiteMaterial: {fileID: 2100000, guid: 916d608c79ba88343a666044bc8ec633, type: 2}
+  blackMaterial: {fileID: 2100000, guid: c4cf21fc544a6e24bab6ada43be23481, type: 2}
+  highlightMaterial: {fileID: 2100000, guid: 1ec4da3200e13be4b8a24b9cc8a388de, type: 2}
+  selectedMaterial: {fileID: 2100000, guid: 1ec4da3200e13be4b8a24b9cc8a388de, type: 2}
+  pieceVisualSetObject: {fileID: 11400000, guid: b5c278b337bc50f43a7209fecc2c44c1, type: 2}
 --- !u!1 &1854259531
 GameObject:
   m_ObjectHideFlags: 0
@@ -470,7 +456,7 @@ Transform:
   m_GameObject: {fileID: 1854259531}
   serializedVersion: 2
   m_LocalRotation: {x: 0.38268346, y: 0, z: 0, w: 0.9238795}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 3.44, y: 6.4, z: -4.98}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -482,5 +468,5 @@ SceneRoots:
   m_Roots:
   - {fileID: 1854259535}
   - {fileID: 619394802}
-  - {fileID: 782505785}
   - {fileID: 1273251177}
+  - {fileID: 1688079727}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6, type: 3}
+  m_Name: PieceVisualSet
+  m_EditorClassIdentifier: 
+  whitePawn:
+    sprite: {fileID: -8418524078262511706, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
+    scale: {x: 1, y: 1, z: 1}
+  whiteKnight:
+    sprite: {fileID: -56300399409492325, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
+    scale: {x: 1, y: 1, z: 1}
+  whiteBishop:
+    sprite: {fileID: 2928081224932235924, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
+    scale: {x: 1, y: 1, z: 1}
+  whiteRook:
+    sprite: {fileID: -6874499717962466058, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
+    scale: {x: 1, y: 1, z: 1}
+  whiteQueen:
+    sprite: {fileID: 6204643001876924129, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
+    scale: {x: 1, y: 1, z: 1}
+  whiteKing:
+    sprite: {fileID: 4721599530557906880, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
+    scale: {x: 1, y: 1, z: 1}
+  blackPawn:
+    sprite: {fileID: 8112212850258566631, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
+    scale: {x: 1, y: 1, z: 1}
+  blackKnight:
+    sprite: {fileID: 7121898670138318748, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
+    scale: {x: 1, y: 1, z: 1}
+  blackBishop:
+    sprite: {fileID: -9193328568578479097, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
+    scale: {x: 1, y: 1, z: 1}
+  blackRook:
+    sprite: {fileID: 1296635945875513865, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
+    scale: {x: 1, y: 1, z: 1}
+  blackQueen:
+    sprite: {fileID: -2922889338763440934, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
+    scale: {x: 1, y: 1, z: 1}
+  blackKing:
+    sprite: {fileID: -8773829022920160605, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
+    scale: {x: 1, y: 1, z: 1}
