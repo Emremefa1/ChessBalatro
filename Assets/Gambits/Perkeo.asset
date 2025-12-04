@@ -9,7 +9,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f1ca63a91b17724bbd99c8fa67e0180, type: 3}
-  m_Name: Material Palette
+  m_Script: {fileID: 11500000, guid: dbb4eaa106cdd574bb0e54bd30b44216, type: 3}
+  m_Name: Perkeo
   m_EditorClassIdentifier: 
-  array: []
+  gambitId: 1
+  gambitName: Perkeo
+  description: 'PerkeoGambit
+
+'
+  icon: {fileID: 504141261066991387, guid: 55c4b2185ce5e6945bcdafdd2e76f534, type: 3}
+  shopPrice: 5
+  sellPrice: 2
+  rarity: 3

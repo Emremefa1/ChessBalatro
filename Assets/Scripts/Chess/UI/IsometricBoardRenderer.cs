@@ -27,12 +27,45 @@ namespace Chess.UI
 
         public void Initialize(Board chessBoard)
         {
+            // Clean up existing visuals first
+            CleanupVisuals();
+            
             board = chessBoard;
             boardSize = board.Size;
             squareObjects = new GameObject[boardSize, boardSize];
             pieceTransforms = new Dictionary<Position, Transform>();
 
             CreateBoardVisualsAndPieces();
+        }
+
+        /// <summary>
+        /// Destroy all existing visual objects
+        /// </summary>
+        private void CleanupVisuals()
+        {
+            // Destroy all piece objects
+            if (pieceTransforms != null)
+            {
+                foreach (var kvp in pieceTransforms)
+                {
+                    if (kvp.Value != null)
+                        Destroy(kvp.Value.gameObject);
+                }
+                pieceTransforms.Clear();
+            }
+
+            // Destroy all square objects
+            if (squareObjects != null)
+            {
+                for (int file = 0; file < squareObjects.GetLength(0); file++)
+                {
+                    for (int rank = 0; rank < squareObjects.GetLength(1); rank++)
+                    {
+                        if (squareObjects[file, rank] != null)
+                            Destroy(squareObjects[file, rank]);
+                    }
+                }
+            }
         }
 
         private void CreateBoardVisualsAndPieces()
@@ -260,6 +293,76 @@ namespace Chess.UI
         {
             var pieceGO = CreatePiece(piece, pos);
             pieceTransforms[pos] = pieceGO.transform;
+        }
+
+        /// <summary>
+        /// Sync visual state with the current board state.
+        /// More efficient than Initialize() for updating after moves.
+        /// </summary>
+        public void SyncWithBoard()
+        {
+            if (board == null) return;
+
+            // First pass: Find pieces to remove or update
+            var toRemove = new List<Position>();
+            var toReplace = new List<Position>();
+            
+            foreach (var kvp in pieceTransforms)
+            {
+                var pos = kvp.Key;
+                var visualTransform = kvp.Value;
+                var boardPiece = board.GetPiece(pos);
+
+                if (boardPiece == null)
+                {
+                    // No piece on board at this position - remove visual
+                    toRemove.Add(pos);
+                }
+                else
+                {
+                    // Check if the visual matches the actual piece
+                    // Visual name format: "Color_Type" e.g. "White_Pawn"
+                    string expectedName = $"{boardPiece.Color}_{boardPiece.Type}";
+                    if (visualTransform.gameObject.name != expectedName)
+                    {
+                        // Wrong piece visual - needs replacement (capture happened)
+                        toReplace.Add(pos);
+                    }
+                }
+            }
+
+            // Remove visuals for empty squares
+            foreach (var pos in toRemove)
+            {
+                RemovePiece(pos);
+            }
+
+            // Replace visuals where a different piece now occupies the square
+            foreach (var pos in toReplace)
+            {
+                RemovePiece(pos);
+                var piece = board.GetPiece(pos);
+                if (piece != null)
+                {
+                    CreatePieceVisual(pos, piece);
+                }
+            }
+
+            // Find new pieces that need visuals
+            for (int file = 0; file < boardSize; file++)
+            {
+                for (int rank = 0; rank < boardSize; rank++)
+                {
+                    var pos = new Position(file, rank);
+                    var piece = board.GetPiece(pos);
+
+                    if (piece != null && !pieceTransforms.ContainsKey(pos))
+                    {
+                        // New piece at this position - create visual
+                        CreatePieceVisual(pos, piece);
+                    }
+                }
+            }
         }
 
         public void SetPieceVisualSet(Object visualSetObject)

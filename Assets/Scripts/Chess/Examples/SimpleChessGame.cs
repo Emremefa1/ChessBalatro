@@ -220,12 +220,29 @@ namespace Chess.Examples
 
         private void ExecuteMove(Move move)
         {
+            Color aiColor = playAsWhite ? Color.Black : Color.White;
             var capturedPiece = rules.Board.GetPiece(move.To);
             
             // Debug: validate move doesn't capture friendly piece
             if (capturedPiece != null && capturedPiece.Color == currentPlayer)
             {
                 Debug.LogError($"❌ INVALID MOVE: {currentPlayer} tried to capture own {capturedPiece.Type}!");
+                Debug.LogError($"   Move was: {move.From} → {move.To}");
+                
+                // Still switch turns to prevent game from getting stuck
+                currentPlayer = currentPlayer.Opposite();
+                
+                // If it was AI's turn and move failed, let player continue
+                if (currentPlayer != aiColor)
+                {
+                    Debug.Log($"👤 It's {currentPlayer}'s turn (Player's turn)");
+                }
+                else
+                {
+                    // AI failed, try again
+                    Debug.Log($"🤖 AI move failed, trying again...");
+                    StartCoroutine(ExecuteAIMove());
+                }
                 return;
             }
 
@@ -298,7 +315,6 @@ namespace Chess.Examples
             CheckGameState();
 
             // AI move - only if it's the AI's turn
-            Color aiColor = playAsWhite ? Color.Black : Color.White;
             if (!gameState.IsGameOver && currentPlayer == aiColor)
             {
                 Debug.Log($"🤖 It's {currentPlayer}'s turn (AI's turn). AI is thinking...");
